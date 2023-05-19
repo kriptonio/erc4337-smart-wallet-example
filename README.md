@@ -1,5 +1,7 @@
 # erc4337-smart-wallet-example
 
+Source code for article published at https://kriptonio.com/blog/how-to-create-simple-erc4337-smart-wallet
+
 ## Install dependencies
 
 ```bash
