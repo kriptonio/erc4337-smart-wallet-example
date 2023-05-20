@@ -11,11 +11,11 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
-    "@account-abstraction/sdk": "0.6.0",
-    "ethers": "5"
+    "ethers": "5",
+    "userop": "0.2.0"
   },
   "devDependencies": {
-    "@types/node": "^20.2.1",
+    "@types/node": "20.2.1",
     "ts-node": "10.9.1",
     "typescript": "5.0.4"
   }
