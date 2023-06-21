@@ -389,10 +389,10 @@
   resolved "https://registry.npmjs.org/@tsconfig/node16/-/node16-1.0.4.tgz"
   integrity sha512-vxhUy4J8lyeyinH7Azl1pdd43GJhZH/tP2weN8TntQblOY+A0XbT8DJk1/oCPuOOyg/Ja757rG0CgHcWC8OfMA==
 
-"@types/node@20.2.1":
-  version "20.2.1"
-  resolved "https://registry.yarnpkg.com/@types/node/-/node-20.2.1.tgz#de559d4b33be9a808fd43372ccee822c70f39704"
-  integrity sha512-DqJociPbZP1lbZ5SQPk4oag6W7AyaGMO6gSfRwq3PWl4PXTwJpRQJhDq4W0kzrg3w6tJ1SwlvGZ5uKFHY13LIg==
+"@types/node@20.3.1":
+  version "20.3.1"
+  resolved "https://registry.yarnpkg.com/@types/node/-/node-20.3.1.tgz#e8a83f1aa8b649377bb1fb5d7bac5cb90e784dfe"
+  integrity sha512-EhcH/wvidPy1WeML3TtYFGR83UzjxeWRen9V402T8aUGYsCHOmfoisV3ZSg03gAFIbLq8TnWOJ0f4cALtnSEUg==
 
 acorn-walk@^8.1.1:
   version "8.2.0"
@@ -559,15 +559,15 @@ ts-node@10.9.1:
     v8-compile-cache-lib "^3.0.1"
     yn "3.1.1"
 
-typescript@5.0.4:
-  version "5.0.4"
-  resolved "https://registry.yarnpkg.com/typescript/-/typescript-5.0.4.tgz#b217fd20119bd61a94d4011274e0ab369058da3b"
-  integrity sha512-cW9T5W9xY37cc+jfEnaUvX91foxtHkza3Nw3wkoF4sSlKn0MONdkdEndig/qPBWXNkmplh3NzayQzCiHM4/hqw==
+typescript@5.1.3:
+  version "5.1.3"
+  resolved "https://registry.yarnpkg.com/typescript/-/typescript-5.1.3.tgz#8d84219244a6b40b6fb2b33cc1c062f715b9e826"
+  integrity sha512-XH627E9vkeqhlZFQuL+UsyAXEnibT0kWR2FWONlr4sTjvxyJYnyefgrkyECLzM5NenmKzRAy2rR/OlYLA1HkZw==
 
-userop@0.2.0:
-  version "0.2.0"
-  resolved "https://registry.yarnpkg.com/userop/-/userop-0.2.0.tgz#69e46dd83606385083014b1ca7fba3d1fa88e05c"
-  integrity sha512-WvPUktveT0lqyvuEl1eBIFLCG+72FBy1fE7vcRVgDAGSDYB3oW+VVvOA5AFhQFZzVjJe7PbSFyyN9lWqww03oQ==
+userop@0.3.1:
+  version "0.3.1"
+  resolved "https://registry.yarnpkg.com/userop/-/userop-0.3.1.tgz#848a0e7a68211a13d7b7146d46b946b27f3d9137"
+  integrity sha512-d3D5ZrO8NQHwH514FwMZz+nHrl4ECrA0lxoBAx1plCfeebxsombnjIPWF7VvJvsFYuqncnBBZ9X+jDo+QB2aKA==
   dependencies:
     ethers "^5.7.2"
 

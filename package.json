@@ -12,11 +12,11 @@
   "license": "MIT",
   "dependencies": {
     "ethers": "5",
-    "userop": "0.2.0"
+    "userop": "0.3.1"
   },
   "devDependencies": {
-    "@types/node": "20.2.1",
+    "@types/node": "20.3.1",
     "ts-node": "10.9.1",
-    "typescript": "5.0.4"
+    "typescript": "5.1.3"
   }
 }
