@@ -1,0 +1,22 @@
+{
+  "name": "erc4337-smart-wallet-example",
+  "version": "1.0.0",
+  "description": "Example of how to create ERC-4337 smart wallets using the Account Abstraction SDK",
+  "main": "index.js",
+  "scripts": {
+    "start": "ts-node index.ts",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "ethers": "5",
+    "userop": "0.3.1"
+  },
+  "devDependencies": {
+    "@types/node": "20.3.1",
+    "ts-node": "10.9.1",
+    "typescript": "5.1.3"
+  }
+}
